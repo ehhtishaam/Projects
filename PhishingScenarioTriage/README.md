@@ -1,7 +1,5 @@
 # Phishing Awareness Analysis
 
-**Project 3 - Cybersecurity Internship, DecodeLabs**
-
 ## Why This Matters
 
 Most breaches don't start with a genius hacker cracking encryption — they start with someone clicking a link they shouldn't have. Firewalls and antivirus software can't stop an employee from typing their password into a fake login page. That's why the first and most important line of defense in any organization is a trained human being who knows how to pause, question, and verify before acting.
@@ -21,7 +19,7 @@ Before looking at the examples, here's the rule everything below is built on:
 ## Scenario 1: The Fake IT Password Reset
 
 **Message:**
-> **From:** IT Security Team [it-support@company-secure-portal.com](mailto:it-support@company-secure-portal.com)
+> **From:** IT Security Team it-support@company-secure-portal.com
 > **Subject:** URGENT: Your password expires in 2 hours — Action Required
 >
 > Dear Employee,
@@ -47,7 +45,7 @@ This has no legitimate business reason to threaten account suspension over email
 ## Scenario 2: The CEO Wire Transfer Request (Business Email Compromise)
 
 **Message:**
-> **From:** CEO Name (traveling) [ceo.name@gmail.com](mailto:ceo.name@gmail.com)
+> **From:** CEO Name (traveling) ceo.name@gmail.com
 > **Subject:** Quick favor — confidential
 >
 > Hi, I'm in a meeting and can't talk right now, but I need you to process an urgent wire transfer before end of day. This is time-sensitive and confidential — please don't loop anyone else in for now. I'll send account details shortly. Can you confirm you're available?
