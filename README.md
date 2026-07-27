@@ -16,9 +16,6 @@ A Python script that checks if a password is actually strong — not just "has a
 🔹 **Caesar Cipher Encryption/Decryption**
 My take on the classic Caesar cipher — encrypts and decrypts text by shifting letters. Simple, but it's a good way to actually understand how basic encryption logic works before jumping into anything modern.
 
-🔹 **Phishing Scenario Triage**
-Broke down three realistic phishing scenarios (fake IT reset, CEO wire transfer scam, QR code phishing), pointed out the red flags in each, and built a simple Pause → Verify → Report framework anyone could use to react correctly.
-
 🔹 *(More projects will keep getting added here as I build them)*
 
 ## 🛠️ Standards
