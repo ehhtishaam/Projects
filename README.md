@@ -4,16 +4,16 @@ This is where I keep the stuff I build — university projects and self-directed
 
 ## 📁 Projects
 
-🔹 **Java Secure Authentication System**
+🔹 **[Java Secure Authentication System](./Java-Secure-Authentication-System)**
 Built this to understand how login systems are supposed to handle passwords properly — hashing with SHA-256, checking for breached passwords, and enforcing basic password rules instead of just storing plaintext like a beginner project would.
 
-🔹 **DSA Library Management System**
+🔹 **[DSA Library Management System](./DSA-Library-Management-System)**
 A library management system in C++ where I used a Binary Search Tree to store and search records efficiently. Mostly built this to actually apply BST concepts instead of just knowing them theoretically.
 
-🔹 **Password Strength Checker**
+🔹 **[Password Strength Checker](./PasswordStrengthChecker)**
 A Python script that checks if a password is actually strong — not just "has a number and a symbol," but real checks like length, character variety, and whether it's already in a known leaked password list.
 
-🔹 **Caesar Cipher Encryption/Decryption**
+🔹 **[Caesar Cipher Encryption/Decryption](./CaesarCipherEncryptionDecryption)**
 My take on the classic Caesar cipher — encrypts and decrypts text by shifting letters. Simple, but it's a good way to actually understand how basic encryption logic works before jumping into anything modern.
 
 🔹 *(More projects will keep getting added here as I build them)*
